@@ -24,12 +24,6 @@
    <img align="center" height="30" wight="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
  </p>
   
-##
-
-<div>
-  <a href="https://github.com/ciceronascimento">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ciceronascimento&count_private=true?&theme=react&show_icons=true&count_private=true"/>
-</div>  
 
 ##
   
