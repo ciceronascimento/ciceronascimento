@@ -3,11 +3,9 @@
 
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, i'm Cicero! </h1>
-<h3 align="center">I'm iOS Developer and QA Analyst!</a></h3>
 
 
 ## 🙋🏾‍♂️ About Me
-- 🔭 I’m currently working on **[BirdDex](https://github.com/ciceronascimento/BirdDex)**
 - 🌱 I’m currently learning Swift/SwiftUI/UIKit
 - 📫 How to reach me: Follow the links below! :)
 
