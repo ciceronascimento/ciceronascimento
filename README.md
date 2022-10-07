@@ -27,7 +27,7 @@
 
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ciceronascimento&layout=compact&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=263238&langs_count=3" />
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ciceronascimento)](https://github.com/anuraghazra/github-readme-stats)
 
 ##
   
