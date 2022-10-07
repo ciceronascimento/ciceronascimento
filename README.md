@@ -24,6 +24,10 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=ciceronascimento&theme=material&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
+
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ciceronascimento&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+
+
 ##
   
   <div> 
